@@ -9,6 +9,6 @@ public with sharing class MyClass {
 
 	public String thisIsDummyMethod()
 	{
-		return "dummy";
+		return 'dummy';
 	}
 }
