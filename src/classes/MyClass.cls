@@ -6,9 +6,4 @@ public with sharing class MyClass {
 	public String getAppVersion() {
 		return '1.0.0';
 	}
-
-	public String thisIsDummyMethod()
-	{
-		return 'dummy';
-	}
 }
